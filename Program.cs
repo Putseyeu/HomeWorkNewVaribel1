@@ -13,7 +13,9 @@ namespace HomeWork2Veribal
             string city = "Франция";
             string country = "Париж";
             ShowInfo(country, city);
-            (country, city) = (city, country);
+            string tempCountry = city;
+            city = country;
+            country = tempCountry;
             ShowInfo(country, city);
         }
 
