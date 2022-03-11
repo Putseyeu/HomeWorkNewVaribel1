@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2Veribal", "HomeWork2Veribal.csproj", "{107D27D2-925D-4F4D-AFDC-EC5E54170A17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{107D27D2-925D-4F4D-AFDC-EC5E54170A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107D27D2-925D-4F4D-AFDC-EC5E54170A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107D27D2-925D-4F4D-AFDC-EC5E54170A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107D27D2-925D-4F4D-AFDC-EC5E54170A17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315065F3-972C-44F4-95F2-D3C94AFECD93}
+	EndGlobalSection
+EndGlobal
